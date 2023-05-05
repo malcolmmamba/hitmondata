@@ -1,13 +1,6 @@
 {
-  "files": {
-    "main.css": "/hitmondata/static/css/main.7a3414ed.css",
-    "main.js": "/hitmondata/static/js/main.6abec712.js",
-    "index.html": "/hitmondata/index.html",
-    "main.7a3414ed.css.map": "/hitmondata/static/css/main.7a3414ed.css.map",
-    "main.6abec712.js.map": "/hitmondata/static/js/main.6abec712.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.7a3414ed.css",
-    "static/js/main.6abec712.js"
-  ]
+  "main.css": "static/css/main.376e33bd.css",
+  "main.css.map": "static/css/main.376e33bd.css.map",
+  "main.js": "static/js/main.0fc8f51b.js",
+  "main.js.map": "static/js/main.0fc8f51b.js.map"
 }
